@@ -23,10 +23,10 @@
   <li>When Print is Too Much</li>
   <li>The Overalls Trend</li>
   <li>Fall's It Color: Blush'</li>
+  <a href="url">https://www.goodreads.com//</a>
   </ul>
   <div id="contanct">
     <p><strong>email</strong>: isa@fashionblog.com | <strong>phone</strong>: 917-555-1098 | <strong>address</strong>: 371 284th St, New York, NY, 10001</p>
   </div>
-<a href="url">https://www.goodreads.com//</a>
 </body>
 </html>

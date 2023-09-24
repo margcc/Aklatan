@@ -27,6 +27,6 @@
   <div id="contanct">
     <p><strong>email</strong>: isa@fashionblog.com | <strong>phone</strong>: 917-555-1098 | <strong>address</strong>: 371 284th St, New York, NY, 10001</p>
   </div>
-
+<a href="url">https://www.coolmathgames.com/</a>
 </body>
 </html>

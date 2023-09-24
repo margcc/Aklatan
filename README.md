@@ -24,7 +24,7 @@
   <li>The Overalls Trend</li>
   <li>Fall's It Color: Blush'</li>
   
-    <a href="url">https://www.goodreads.com/</a>
+    <a href="https://www.goodreads.com/" target="_blank">Goodreads</a>
   </ul>
   <div id="contanct">
     <p><strong>email</strong>: isa@fashionblog.com | <strong>phone</strong>: 917-555-1098 | <strong>address</strong>: 371 284th St, New York, NY, 10001</p>

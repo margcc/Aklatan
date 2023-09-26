@@ -19,7 +19,7 @@
   <li>Inward by <i>Yung Pueblo</i></li>
   </ul>
   <h2>Dressing for the Shows</h2>
-    <img src="https://content.codeacademy.com/courses/learn-html/elements-and-structure/image-three.jpeg" />
+    <img src="https://i.pinimg.com/originals/5a/ab/35/5aab35af90b346e9bad1f2926727d827.jpg" />
       <p>“Always be true to your own sense of style, if you don’t you’ll be uncomfortable the whole time and it will show. Remember, NYFW is about expressing yourself and taking in what the designers have chosen to express through their new lines. Also it’s important to wear shoes you’ll be comfortable in all day. Obviously you want to look good, but you’ll be on your feet all day long, so be prepared.”</p>
 <h4>Related Contentent</h4>
   <ul>

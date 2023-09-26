@@ -28,7 +28,7 @@
   </ul>
   <h2>Dressing for the Shows</h2>
     <img src="https://i.pinimg.com/originals/8d/5f/c1/8d5fc177c5d236036f659437c76b3559.jpg" />
-      <p>“When I have a house of my own, I shall be <i>miserable</i> if I have not an excellent <strong>library</strong>”<i>Jane Austen</i></p>
+      <p>“When I have a house of my own, I shall be <i>miserable</i> if I have not an excellent <strong>library</strong>”- <i>Jane Austen</i></p>
   <a href="https://www.goodreads.com/">A Bibliophile's <i>Sanctuary</i></a>
   
   <p>"with <i>freedom</i>, <i>books</i>, <i>flowers</i>, and the <i>moon</i>, who could not be <strong>happy</strong>?" - <i>Oscar Wilde</i></p>

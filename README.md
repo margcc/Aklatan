@@ -10,7 +10,7 @@
     <p>"She <i>lives</i> the <strong>poetry</strong> she cannot <strong>write</strong>" - <i>Oscar Wilde</i></p>
     <h2>Poetry</h2>
      <img src="https://i.pinimg.com/originals/08/33/d6/0833d698ec4ab9b6fac6129da6917cdf.jpg" />
-    <p>"your beauty is <strong>undeniable</strong> but everything <i>sacred</i> and <i>ancient</i> in you is even more <strong>stunning</strong>" - <i>Rupi Kaur</i></p>
+    <p>"your <i>beauty</i> is <strong>undeniable</strong> but everything <i>sacred</i> and <i>ancient</i> in you is even more <strong>stunning</strong>" - <i>Rupi Kaur</i></p>
   <p>"now that you are <i>free</i> and the only <strong>obligation</strong> you are under is your own <i>dreams</i> what will you do with your own <strong>time</strong>?" - <i>Rupi Kaur</i></p>
   <ul>
   <li>Milk and Honey by <i>Rupi Kaur</i></li>
@@ -22,12 +22,10 @@
       <p>"I don't like to doze by the fire. I like <strong>adventures</strong>, and <i>I am going to find some</i>" - <i>Jo March</i></p>
     <img src="https://i.pinimg.com/originals/8d/5f/c1/8d5fc177c5d236036f659437c76b3559.jpg" />
       <p>“When I have a house of my own, I shall be <i>miserable</i> if I have not an excellent <strong>library</strong>”- <i>Jane Austen</i></p>
-  <h4>Related Contentent</h4>
+   <img src="https://i.pinimg.com/originals/8d/5f/c1/8d5fc177c5d236036f659437c76b3559.jpg" />
+      <p>“Is it better to have had a <strong>good thing and lost it</strong>, or <strong>never to have had it?</strong>”- <i>Charles Dickens</i></p>
   <ul>
-  <li>Little Women by <i>Lousia May Alcott</i></li>
   <li>Our Mutual Friend by <i>Charles Dickens</i></li>
-  <li>Pride and Prejudice by <i>Jane Austen</i></li>
-  <li>Romeo and Juliet by <i>Shakespeare</i></li>
   </ul>
   <a href="https://www.goodreads.com/">A Bibliophile's <i>Sanctuary</i></a>
   

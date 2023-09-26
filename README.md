@@ -2,7 +2,7 @@
 
 <head>
   <title>Aklatan ni Margaret</title>
-  <style> body {background:#303a54} </style>
+  <style> body {background:#BCB5A9} </style>
 </head>
 
 <body>

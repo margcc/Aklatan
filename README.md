@@ -7,7 +7,7 @@
 
 <body>
   <h1>Aklatan ni Margaret</h1>
-    <p>"She lives the poetry she cannot write" - Oscar Wilde</p>
+    <p>"She <i>lives</i>i the <strong>poetry</strong>strong she cannot <strong>write</strong>" - Oscar Wilde</p>
     <img src="https://content.codeacademy.com/courses/learn-html/elements-and-structure/image-one.jpeg" />
       <p>“<a href="https://en.wikipedia.org/wiki/New_York_Fashion_Week." target="_blank">NYFW</a> can be both amazingly fun & incredibly overwhelming, especially if you’ve never been. Luckily, I’m here to give you an insider’s guide and make your first show a pleasurable experience. By taking my tips and tricks, and following your gut, you’ll have an unforgettable experience!”</p>
   <h2>Getting Tickets & Picking Shows</h2>

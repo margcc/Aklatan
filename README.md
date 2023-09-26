@@ -16,7 +16,6 @@
   <li>Milk and Honey by <i>Rupi Kaur</i></li>
   <li>The Sun and her Flower by <i>Rupi Kaur</i></li>
   </ul>
-  <img src="https://i.pinimg.com/originals/b3/94/a0/b394a0edb1d5812eb217429d93a63890.jpg" />
   <h2>Classics</h2>
     <img src="https://i.pinimg.com/originals/5a/ab/35/5aab35af90b346e9bad1f2926727d827.jpg" />
       <p>“Women, they have <strong>minds</strong>, and they have <strong>souls</strong>, as well as just <i>hearts</i>. And they've got <strong>ambition</strong> and they've got <strong>talent</strong>, as well as just <i>beauty</i>. I'm so sick of people saying love is just all a woman is fit for.” - <i>Jo March</i></p>

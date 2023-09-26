@@ -18,12 +18,12 @@
       <p>“Always be true to your own sense of style, if you don’t you’ll be uncomfortable the whole time and it will show. Remember, NYFW is about expressing yourself and taking in what the designers have chosen to express through their new lines. Also it’s important to wear shoes you’ll be comfortable in all day. Obviously you want to look good, but you’ll be on your feet all day long, so be prepared.”</p>
 <h4>Related Contentent</h4>
   <ul>
-  <li>How to Style Boyfriend Jeans</li>
-  <li>When Print is Too Much</li>
-  <li>The Overalls Trend</li>
-  <li>Fall's It Color: Blush'</li>
-  
-  <a href="https://www.goodreads.com/">Goodreads</a>
+  <li>Little Women by <i>Lousia May Alcott</i></li>
+  <li>Our Mutual Friend by <i>Charles Dickens</i></li>
+  <li>Pride and Prejudice by <i>Jane Austen</i></li>
+  <li>Romeo and Juliet by <i>Shakespeare</i></li>
+  </ul>
+  <a href="https://www.goodreads.com/">A Bibliophile's <i>Sanctuary</i></a>
   
   
   <p>"with <i>freedom</i>, <i>books</i>, <i>flowers</i>, and the <i>mooon</i>, who could not be <strong>happy</strong>?" - <i>Oscar Wilde</i></p>

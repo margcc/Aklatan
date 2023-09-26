@@ -23,10 +23,9 @@
   <li>The Overalls Trend</li>
   <li>Fall's It Color: Blush'</li>
   
-    <a href="https://www.goodreads.com/">Goodreads</a>
-  </ul>
-  <div id="contanct">
-    <p><strong>email</strong>: isa@fashionblog.com | <strong>phone</strong>: 917-555-1098 | <strong>address</strong>: 371 284th St, New York, NY, 10001</p>
+  <a href="https://www.goodreads.com/">Goodreads</a>
+<p>"with <strong>freedom</strong>, <strong>books</strong>, <strong>flowers</strong>, and the <strong>mooon</strong>, who could not be <i>happy</i>?" - Oscar Wilde</p>
+  </ul>  
   </div>
 </body>
 </html>

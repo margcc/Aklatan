@@ -20,7 +20,7 @@
   </ul>
   <h2>Dressing for the Shows</h2>
     <img src="https://i.pinimg.com/originals/5a/ab/35/5aab35af90b346e9bad1f2926727d827.jpg" />
-      <p>“Women, they have minds, and they have souls, as well as just hearts. And they've got ambition and they've got talent, as well as just beauty. I'm so sick of people saying love is just all a woman is fit for.” - <i>Jo March</i></p>
+      <p>“Women, they have <strong>minds</strong>, and they have <strong>souls</strong>, as well as just <i>hearts</i>. And they've got <strong>ambition</strong> and they've got <strong>talent</strong>, as well as just <i>beauty</i>. I'm so sick of people saying love is just all a woman is fit for.” - <i>Jo March</i></p>
 <h4>Related Contentent</h4>
   <ul>
   <li>Little Women by <i>Lousia May Alcott</i></li>

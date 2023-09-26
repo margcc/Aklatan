@@ -17,7 +17,7 @@
   <li>The Sun and her Flower by <i>Rupi Kaur</i></li>
   </ul>
   <img src="https://i.pinimg.com/564x/64/21/52/642152a2a927ef3d043362bec6b46f1b.jpg" />
-  <p>"" - <i>Yung Pueblo, "Clarity"</i></p>
+  <p>"who I am is always changing <i>not because I am being fake</i> but because I am always open to <strong>growth</strong> and <strong>transformation</strong>" - <i>Yung Pueblo, "Clarity"</i></p>
   <ul>
   <li>Clarity and Connection by <i>Yung Pueblo</i></li>
   </ul>

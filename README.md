@@ -1,7 +1,7 @@
 <html>
 
 <head>
-  <title>Everyday with Isa</title>
+  <title>Aklatan ni Margaret</title>
   <style> body {background:#303a54} </style>
 </head>
 

@@ -2,6 +2,7 @@
 
 <head>
   <title>Everyday with Isa</title>
+  <style> body {background:#B2AC88} </style>
 </head>
 
 <body>

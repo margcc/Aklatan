@@ -29,7 +29,7 @@
   <li>Sense and Sensibility - <i>Jane Austen</i></li>
   <li>Persuassion - <i>Jane Austen</i></li>
   </ul>
-  <img src=https://i.pinimg.com/564x/46/89/22/4689223ce5c0f644d3ed637ad121a80a.jpg />
+  <img src="https://i.pinimg.com/564x/46/89/22/4689223ce5c0f644d3ed637ad121a80a.jpg" />
       <p>“Is it <i>better</i> to have had a <strong>good thing and lost it</strong>, or <strong>never to have had it?</strong>”- <i>Charles Dickens</i></p>
   <ul>
   <li>Great Expectations - <i>Charles Dickens</i></li>

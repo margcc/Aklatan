@@ -24,7 +24,7 @@
   <li>Fall's It Color: Blush'</li>
   
   <a href="https://www.goodreads.com/">Goodreads</a>
-  <p>"with <strong>freedom</strong>, <strong>books</strong>, <strong>flowers</strong>, and the <strong>mooon</strong>, who could not be <i>happy</i>?" - <i>Oscar Wilde</i></p>
+  <p>"with <i>freedom</i>, <i>books</i>, <i>flowers</i>, and the <i>mooon</i>, who could not be <strong>happy</strong>?" - <i>Oscar Wilde</i></p>
   </ul>  
   </div>
 </body>
